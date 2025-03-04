@@ -8,7 +8,7 @@ const chatbox = document.querySelector(".chatbox");
 
 let userMessage;
 const API_KEY = 
-    " ";
+    " Enter your API Here ";
 
 const createChatLi = (message, className) => {
     const chatLi = document.createElement("li");
